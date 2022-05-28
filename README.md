@@ -4,7 +4,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturd
 
 ---
 
-![](/images/githw.jpg")
+![](/images/githw.jpg)
 
 ---
 
